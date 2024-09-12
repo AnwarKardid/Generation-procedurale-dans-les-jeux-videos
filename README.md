@@ -60,6 +60,8 @@ La génération procédurale, largement employée dans les jeux vidéo, offre la
 5. 🔗 MIN-FANG GRACE TSAI : [MAT 335 Project Fractal Landscapes](https://www.sfu.ca/~rpyke/335/projects/tsai/report1.htm)
 6. 🔗 ALAN ZUCCONI : [Explication de fonctionnement du jeu Minecraft](https://www.alanzucconi.com/2022/06/05/minecraft-world-generation/)
 7. 🎬 IMDB : [Cinématographie TRON](https://www.imdb.com/title/tt0084827/?ref_=ext_shr_lnk)
-8. 🔗 NO MAN'S SKY : [Site Web officiel du jeu No Man's Sky](https://www.nomanssky.com/)
+8. 🔗 NO MAN'S SKY :(https://www.nomanssky.com/)
 9. 📄 STEFAN GUSTAVSON : [Simplex noise demystified](https://www.researchgate.net/publication/216813608_Simplex_noise_demystified)
 10. 📚 ALAIN FOURNIER, DONALD S. FUSSELL, AND LOREN C. CARPENTER : Computer render of stochastic models : Commun. ACM, 25(6):371-384, 1982
+
+
